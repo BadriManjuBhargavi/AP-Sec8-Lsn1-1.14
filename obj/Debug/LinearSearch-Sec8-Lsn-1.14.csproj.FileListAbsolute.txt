@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\bin\Debug\LinearSearch-Sec8-Lsn-1.14.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\bin\Debug\LinearSearch-Sec8-Lsn-1.14.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\bin\Debug\LinearSearch-Sec8-Lsn-1.14.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\obj\Debug\LinearSearch-Sec8-Lsn-1.14.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\obj\Debug\LinearSearch-Sec8-Lsn-1.14.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\obj\Debug\LinearSearch-Sec8-Lsn-1.14.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\obj\Debug\LinearSearch-Sec8-Lsn-1.14.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\LinearSearch-Sec8-Lsn-1.14\LinearSearch-Sec8-Lsn-1.14\obj\Debug\LinearSearch-Sec8-Lsn-1.14.pdb
